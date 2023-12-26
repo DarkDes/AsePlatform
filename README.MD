@@ -21,7 +21,7 @@ And now about the interface:
 - Inside the "Interface" group there should be a layer called "ScorePoint", one pixel is enough - it will be a reference point where the points gained in the game will be written.
 
 And here's a video demonstration(of a slightly older version):
-![viddemo](video_demonstration.mp4)
+[![Watch the video](https://img.youtube.com/vi/u7vUu686ojI/hqdefault.jpg)](https://www.youtube.com/watch?v=u7vUu686ojI)
 
 # LICENSES
 The scripts are distributed under the [MIT license](LICENSE).
